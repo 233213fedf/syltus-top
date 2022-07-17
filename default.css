@@ -1,0 +1,97 @@
+﻿.style1 {
+				background-image: url('res/s_bg.jpg');
+}
+.style2 {
+				text-align: center;
+}
+.style3 {
+				background-color: #FFFFFF;
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+}
+.style4 {
+				text-align: left;
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+}
+.style5 {
+				text-align: left;
+				background-image: url('res/topbg.jpg');
+}
+.style6 {
+				text-align: right;
+				background-image: url('res/topbg.jpg');
+				line-height: 150%;
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+				color: #FFFFFF;
+}
+.style7 {
+				text-align: center;
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+}
+.style8 {
+				background-image: url('res/subindex_bar_long.gif');
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+}
+.style9 {
+				background-image: url('res/subindex_bar_long_end.gif');
+}
+.style10 {
+				background-image: url('res/subindex_bar_long_end.gif');
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+}
+.style11 {
+				background-color: #FFFFFF;
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+				background-image: url('res/ctop3-1bg.jpg');
+}
+a {
+				color: #336DC6;
+}
+a:visited {
+				color: #808080;
+}
+.style13 {
+				list-style-image: url('res/entry.png');
+}
+.style14 {
+				color: #0000FF;
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+}
+.style15 {
+				color: #FFFFFF;
+}
+.style16 {
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+}
+.style17 {
+				background-color: #EBEDFA;
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+}
+.style18 {
+				background-image: url('res/top6-1a.jpg');
+				font-size: small;
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				text-align: center;
+}
+.style19 {
+				background-color: #EBEDFA;
+				font-family: Tahoma, Arial, serif, 微软雅黑;
+				font-size: small;
+				text-align: left;
+}
+.style20 {
+				background-image: url('res/ctop1-3bg.jpg');
+}
+.style21 {
+				font-size: xx-small;
+				color: #C0C5E3;
+}
